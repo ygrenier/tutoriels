@@ -2,7 +2,7 @@
 
 Liste des tutoriels développés par Yan Grenier.
 
-## Structure du dépôt
+## Organisation du dépôt
 
 ## Organisation du dépôt
 
