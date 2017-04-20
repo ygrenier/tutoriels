@@ -1,6 +1,8 @@
 # Tutoriels
 
-Liste des tutoriels développés par @ygrenier.
+Liste des tutoriels développés par Yan Grenier.
+
+## Structure du dépôt
 
 ## Organisation du dépôt
 
